@@ -1,5 +1,2 @@
-# datasciencecoursera
-# datasciencecoursera
-# HelloWorld!
 #HelloWorld!
-#HelloWorld!
+## This is a markdown file
